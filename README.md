@@ -7,4 +7,4 @@
 <br/>
 
 
-live on : discussly.ccbp.tech
+live on : https://discussly.ccbp.tech/
